@@ -50,3 +50,4 @@ Introductory workshop into the use of QGIS software to produce figures and maps 
 
 version:310323.01
 
+para mas informacion marque 1
