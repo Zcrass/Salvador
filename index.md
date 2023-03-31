@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pagina de Presentación
+title: Presentación
 description: En esta página encontraras mi informacion general y links a algunos de mis proyectos
 Author: Guzman-Diaz, S.
 Maintainer: Guzman-Diaz, S.
