@@ -24,27 +24,27 @@ My experience includes working both in field and laboratory, as well as programm
 
 Bellow you will find a brief description and links to projects that I have worked on in recent years.
 
-### [Analysis of HTS data]()
-Analysis of High Throughput Sequencing Data from the quality check of the raw reads to the assembly of complete chloroplast genomes and nuclear targets. This project Makes use of different bioinformatic command line tools in a Linux Conda environment.
+### [Analysis of HTS data](https://github.com/Zcrass/Phylogenomics)
+Analysis of High Throughput Sequencing Data from the quality check of the raw reads to the use of assembly of complete chloroplast genomes and nuclear targets. This project Makes use of different bioinformatic command line tools in a Linux Conda environment.
 
 ### [Introduction to population genomics in R]() (*In development*)
 A series of introductory analysis of population genomics using Single Nucleotide Polymorphism (SNP) data and different R packages. 
 
-### [Ancestry prediction in R]()
+### [Ancestry prediction in R](https://github.com/Zcrass/Amphora_code_challenge)
 Prediction the ancestry of individuals using a series of Machine Learning (ML) algorithms and SNP data. This version was developed in the R programing languaje.
 
-### [Ancestry prediction in Python]()
+### [Ancestry prediction in Python](https://github.com/Zcrass/Amphora_code_challenge_py)
 Second version of the Ancestry prediction analysis. Prediction the ancestry of individuals using Machine learning algoriths in Python.
 
-### [SDM using ML in Python]() (*In development*)
+### [SDM using ML in Python](https://github.com/Zcrass/SpeciesDistributionModels) (*In development*)
 Generating Species Distribution Models using machine learning and bioclimatic data in python.
 
-### [Bigdata prossesing]()
+### [Bigdata prossesing](https://github.com/Zcrass/Processing_Signals)
 Prossesing bigdata info using Python, Dask and Pandas.
 
-### [Angiosperm Metagenome]() (*In development*)
+### [Angiosperm Metagenome](https://github.com/Zcrass/Angiosperm-Metagenome-Test) (*In development*)
 Testing a metagenome extraction pipeline from GBS sequencing data.
 
-### [QGIS workshop]()
+### [QGIS workshop](https://zcrass.github.io/QGIS_workshop_2023/)
 Introductory workshop into the use of QGIS software to produce figures and maps for research papers.
 
