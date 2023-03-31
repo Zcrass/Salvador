@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presentación
+title: Presentation
 description: En esta página encontraras mi informacion general y links a algunos de mis proyectos
 Author: Guzman-Diaz, S.
 Maintainer: Guzman-Diaz, S.
@@ -17,18 +17,6 @@ I am a Ph.D candidate at Instituto de Ecologia A. C. with a passion for bioinfor
 If you have questions, comments or suggestions don't hesitate to contact me [here](https://forms.gle/VSoCi4gRGt9M1WW76) or using the links bellow: 
 
 guzmandsalvador**AT**gmail - [Linkedin](https://www.linkedin.com/in/salvador-guzm%C3%A1n-d%C3%ADaz-56b07977/) - [Github](https://github.com/Zcrass) - [ResearchGate](https://www.researchgate.net/profile/Salvador-Guzman-Diaz)
-
-
-## Education
-___
-### Undergraduate Degree
-During my undergraduate degree, I gained experience in scientific research, statistical methods, data manipulation, and visualization using R and Python. I also participated in various congresses and workshops to broaden my knowledge and skills.
-
-### Master's Degree
-Later, during my master's degree, I worked with genetics and molecular markers to study evolution and population genetics in wild plants. I focused on delimiting closely related species and how hybridization and morphological traits impact the evolution of plants.
-
-### Ph.D. Degree
-Now, in my Ph.D., I am immersed in the analysis of high-throughput sequencing data to perform genome assembly, target capture, and genome annotation for evolutionary and population genomics analysis in tropical trees. My research examines the evolution and biogeographic history of endangered species and how this information can impact conservation efforts. I have also collaborated with colleagues on projects related to population genomics and conservation.
 
 ## Experience
 ___
@@ -60,9 +48,3 @@ Testing a metagenome extraction pipeline from GBS sequencing data.
 ### [QGIS workshop]()
 Introductory workshop into the use of QGIS software to produce figures and maps for research papers.
 
-## Latest Research
-- Testé, E., …, Guzman-Diaz, S., …. (In press). Evolutionary History of Magnolia sect. Talauma (Magnoliaceae) in Cuba. Biological Journal of the Linnean Society.
-- Samain, M.S., Guzman-Diaz, S., …. (2022). [Meta-analysis of Red List conservation assessments of Mexican endemic and near endemic tree species](https://doi.org/10.1002/ppp3.10308). Plants, People, Planet, 1 – 19. 
-- Guzman-Diaz, S., …. (2022). [Comparison of Magnoliaceae Plastomes: Adding Neotropical Magnolia to the Discussion](https://doi.org/10.3390/plants11030448). Plants, 11(3), 448. 
-- Guzman-Diaz, S., …. (2021). [Russelia tehuana (Plantaginaceae), a new species from the tropical dry deciduous forest in Oaxaca, Mexico](https://doi.org/10.11646/phytotaxa.491.3.5). Phytotaxa, 491(3), 249-256. 
-- Zacarías-Correa, A. G., Guzman-Diaz, S., …. (2019). [Taxonomy, geographic and ecological distribution of the genus Penstemon (Plantaginaceae) in the Trans-Mexican Volcanic Belt, Mexico](https://doi.org/10.21829/abm126.2019.1428). Acta botánica mexicana, (126). 

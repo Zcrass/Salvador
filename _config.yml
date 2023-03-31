@@ -1,8 +1,8 @@
-theme: minima
-minima:
-  skin: dark
+remote_theme: jekyll/minima
 markdown: kramdown
 
+minima:
+  skin: dark
 header_pages:
   - index.md
   - education.md
