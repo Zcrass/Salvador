@@ -47,7 +47,3 @@ Testing a metagenome extraction pipeline from GBS sequencing data.
 
 ### [QGIS workshop](https://zcrass.github.io/QGIS_workshop_2023/)
 Introductory workshop into the use of QGIS software to produce figures and maps for research papers.
-
-version:310323.01
-
-para mas informacion marque 1
